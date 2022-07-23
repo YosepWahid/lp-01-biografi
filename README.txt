@@ -1,7 +1,7 @@
 -------------------------------------------------------------------------------------
 
 
-HALLO WORLD
+HELLO WORLD
 
 ini adalah project yang saya buat untuk latihan html , css dasar , css layout dasar 
 dan javascript dasar 
