@@ -1,7 +1,9 @@
+# Biografi latihan-project
+
 -------------------------------------------------------------------------------------
 
 
-HELLO WORLD
+Hello World
 
 ini adalah project yang saya buat untuk latihan html , css dasar , css layout dasar 
 dan javascript dasar 
@@ -9,7 +11,7 @@ dan javascript dasar
 
 di folder ini saya hanya membuat web portofolio saja.
 
+sekian terima kasih
 
 
-
------------------------------sekian terima kasih-------------------------------------
+-------------------------------------------------------------------------------------
